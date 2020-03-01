@@ -1,0 +1,37 @@
+atonement
+This is turn 1
+Guess a letter
+Correct guess
+["a", "_", "_", "_", "_", "_", "_", "_", "_"]
+
+
+This is turn 2
+Guess a letter
+["a", "_", "_", "_", "_", "_", "_", "_", "_"]
+Incorrect guess
+g
+
+This is turn 3
+Guess a letter
+["a", "_", "_", "_", "_", "_", "_", "_", "_"]
+Incorrect guess
+g b
+
+This is turn 4
+Guess a letter
+Correct guess
+["a", "_", "_", "n", "_", "_", "_", "n", "_"]
+g b
+
+This is turn 5
+Guess a letter
+Correct guess
+["a", "_", "_", "n", "_", "m", "_", "n", "_"]
+g b
+
+This is turn 6
+Guess a letter
+["a", "_", "_", "n", "_", "m", "_", "n", "_"]
+Incorrect guess
+g b q
+
